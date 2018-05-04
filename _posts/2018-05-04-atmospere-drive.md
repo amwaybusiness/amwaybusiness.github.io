@@ -32,7 +32,7 @@ EarthWindMap(바람의 흐름을 나타낸 지도)에서 보면 중국에서 한
 
 [![Atmosphere Drive Car Air Treatment](http://img.youtube.com/vi/VMlDwImAKB8/0.jpg)](https://www.youtube.com/watch?v=VMlDwImAKB8)
 
-### 영국 알러지 재단([Allergy UK](https://www.allergyuk.org/get-help/products/filter/product_type:Air%20Purifiers/manufacturer:Amway%20Corp.#products))의 인증받은 최초의 차량용 공기청정기(저렴한 제품 비교 불가)
+### 영국 알러지 재단([Allergy UK](https://www.allergyuk.org/get-help/products/filter/product_type:Air%20Purifiers/manufacturer:Amway%20Corp.#products))의 인증받은 최초의 차량용 공기청정기(성능 비교 불가)
 
 ![Allergy UK 인증](https://amwaybusiness.github.io/img/allergyuk.jpg)
 
