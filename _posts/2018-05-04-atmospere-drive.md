@@ -15,7 +15,7 @@ title: "Atmosphere Drive(차량용 공기청정기)"
 
 ### Earth Wind Map
 ![EarthWindMap](https://amwaybusiness.github.io/img/korea_air.jpg)
-[Earth Wind Map]: https://earth.nullschool.net/#current/chem/surface/level/overlay=cosc/orthographic=-234.39,36.47,3000
+[Earth Wind Map](https://earth.nullschool.net/#current/chem/surface/level/overlay=cosc/orthographic=-234.39,36.47,3000)
 
 우리나라 자동차 등록대수가 2253만대가량됩니다. 인구 2.3명당 1대 꼴입니다.
 자동차는 이미 우리 생활 속에서 필수로 여겨진지 오래됩니다.
@@ -29,6 +29,6 @@ title: "Atmosphere Drive(차량용 공기청정기)"
 
 [![Atmosphere Drive Car Air Treatment](http://img.youtube.com/vi/VMlDwImAKB8/0.jpg)](https://www.youtube.com/watch?v=VMlDwImAKB8)
 
-### 영국 알러지 재단 ([Allergy UK]: https://www.allergyuk.org)의 인증 받은 최초의 차량용 공기청정기(저렴한 제품 비교 불가)
+### 영국 알러지 재단 ([Allergy UK](https://www.allergyuk.org))의 인증 받은 최초의 차량용 공기청정기(저렴한 제품 비교 불가)
 
 ![Allergy UK 인증](https://amwaybusiness.github.io/img/allergyuk.jpg)
