@@ -21,7 +21,7 @@ EarthWindMap(바람의 흐름을 나타낸 지도)에서 보면 중국에서 한
 ## 차량의 증가, 차안에서의 시간 늘어남
 
 우리나라 자동차 등록대수가 2253만대가량됩니다. 인구 2.3명당 1대 꼴입니다.
-[우리나라 자동차 등록 대수 기사 링크](https://www.msn.com/ko-kr/money/topstories/%EC%9E%90%EB%8F%99%EC%B0%A8-%EB%93%B1%EB%A1%9D%EB%8C%80%EC%88%98-2253%EB%A7%8C%EB%8C%80%E2%80%A6%EC%9D%B8%EA%B5%AC-23%EB%AA%85%EB%8B%B9-1%EB%8C%80%EA%BC%B4-%EB%B3%B4%EC%9C%A0/ar-AAuN9vY)
+([우리나라 자동차 등록 대수 기사 링크](https://www.msn.com/ko-kr/money/topstories/%EC%9E%90%EB%8F%99%EC%B0%A8-%EB%93%B1%EB%A1%9D%EB%8C%80%EC%88%98-2253%EB%A7%8C%EB%8C%80%E2%80%A6%EC%9D%B8%EA%B5%AC-23%EB%AA%85%EB%8B%B9-1%EB%8C%80%EA%BC%B4-%EB%B3%B4%EC%9C%A0/ar-AAuN9vY))
 자동차는 이미 우리 생활 속에서 필수로 여겨진지 오래됩니다.
 그리고 차안에 있는 시간도 많이 늘어났습니다.
 공기가 계속 나빠지고 있는데 자동차 안의 공기는 어떨까요?
