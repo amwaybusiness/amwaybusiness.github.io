@@ -23,7 +23,7 @@ title: "Atmosphere Drive(차량용 공기청정기)"
 공기가 계속 나빠지고 있는데 자동차 안의 공기는 어떨까요?
 아이의 호흡량은 어른의 3~5배라는데 이대로 가만히 있어도 될까요?
 
-### 차안의 공기를 깨끗하고 상쾌하게 바꿔줄 세계 최고의 차량용 공기청정기 Atmosphere Drive
+### 차안의 공기를 상쾌하게 바꿔주는 세계 최고의 차량용 공기청정기 Atmosphere Drive
 
 [![Atmosphere Drive Demo](http://img.youtube.com/vi/ppNajnxE2r4/0.jpg)](https://www.youtube.com/watch?v=ppNajnxE2r4)
 
