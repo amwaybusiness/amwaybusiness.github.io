@@ -12,7 +12,7 @@ EarthWindMap(바람의 흐름을 나타낸 지도)에서 보면 중국에서 한
 
 더군다나 중국은 석탄연료를 사용하는 공장들을 한국과 가까운 산둥성으로 이전하고 있습니다.
 덕분에 북경의 공기는 이전보다 점점 더 좋아지고 있습니다.
-[산둥성으로 공장이전 기사 링크](http://mn.kbs.co.kr/news/view.do?ncd=3620511)
+([산둥성으로 공장이전 기사 링크](http://mn.kbs.co.kr/news/view.do?ncd=3620511))
 
 ### Earth Wind Map
 ![EarthWindMap](https://amwaybusiness.github.io/img/korea_air.jpg)
@@ -26,7 +26,7 @@ EarthWindMap(바람의 흐름을 나타낸 지도)에서 보면 중국에서 한
 그리고 차안에 있는 시간도 많이 늘어났습니다.
 공기가 계속 나빠지고 있는데 자동차 안의 공기는 어떨까요?
 아이의 호흡량은 어른의 3~5배라는데 이대로 가만히 있어도 될까요?
-[미세먼지 빈발, 어린이가 더 취약 기사 링크](http://news.kbs.co.kr/news/view.do?ncd=3453023)
+([미세먼지 빈발, 어린이가 더 취약 기사 링크](http://news.kbs.co.kr/news/view.do?ncd=3453023))
 
 ### 차안의 공기를 상쾌하게 바꿔주는 세계 최고의 차량용 공기청정기 Atmosphere Drive
 ### Youtube 동영상
