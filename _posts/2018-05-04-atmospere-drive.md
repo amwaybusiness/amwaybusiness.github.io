@@ -3,7 +3,7 @@ layout: post
 title: "Atmosphere Drive(차량용 공기청정기)"
 ---
 
-# 위험한 대한민국 공기
+## 위험한 대한민국 공기
 
 이미 수년전부터 한국의 공기가 오염되고 있었습니다.
 매년 중국으로부터 날아오던 황사가 이젠 미세먼지로 확대되어 한국의 공기를 오염시키고 있습니다.
@@ -16,6 +16,8 @@ EarthWindMap(바람의 흐름을 나타낸 지도)에서 보면 중국에서 한
 ### Earth Wind Map
 ![EarthWindMap](https://amwaybusiness.github.io/img/korea_air.jpg)
 [Earth Wind Map Link](https://earth.nullschool.net/#current/chem/surface/level/overlay=cosc/orthographic=-234.39,36.47,3000)
+
+## 차량의 증가, 차안에서의 시간 늘어남
 
 우리나라 자동차 등록대수가 2253만대가량됩니다. 인구 2.3명당 1대 꼴입니다.
 자동차는 이미 우리 생활 속에서 필수로 여겨진지 오래됩니다.
