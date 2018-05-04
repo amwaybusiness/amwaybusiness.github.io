@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Atmosphere Drive"
+title: "Atmosphere Drive(차량용 공기청정기)"
 ---
 
 # 오염되고 있는 대한민국 공기
@@ -14,4 +14,4 @@ title: "Atmosphere Drive"
 덕분에 북경의 공기는 이전보다 점점 더 좋아지고 있습니다.
 
 
-![EarthWindMap](../img/korea_air.jpg)
+![EarthWindMap](https://amwaybusiness.github.io/img/atmo_drive_01.jpg)
