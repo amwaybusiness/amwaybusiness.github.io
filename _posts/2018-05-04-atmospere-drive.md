@@ -13,5 +13,6 @@ title: "Atmosphere Drive(차량용 공기청정기)"
 더군다나 중국은 석탄연료를 사용하는 공장들을 대한민국과 가까운 산둥성으로 이전하고 있습니다.
 덕분에 북경의 공기는 이전보다 점점 더 좋아지고 있습니다.
 
-
+### Earth Wind Map
 ![EarthWindMap](https://amwaybusiness.github.io/img/korea_air.jpg)
+[Earth Wind Map]: https://earth.nullschool.net/#current/chem/surface/level/overlay=cosc/orthographic=-234.39,36.47,3000
